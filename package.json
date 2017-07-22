@@ -1,0 +1,13 @@
+{
+  "name": "webpack-academy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "daniel varela",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack" 
+  },
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
